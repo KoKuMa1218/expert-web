@@ -27,7 +27,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="BpKioskModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1 " id="exampleModalLabel">Expert SmartBP Kiosk</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -65,7 +65,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="BpBoxModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1" id="exampleModalLabel">Expert Smart BP Box</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -93,7 +93,7 @@ function Product() {
                                 </div>
                                 <div class="single-details">
                                     <a >
-                                        <h5 class="text-center">Expert Smart VitalSing</h5>
+                                        <h5 class="text-center">Expert Smart VitalSigns</h5>
                                     </a>
                                     <button class="button-dec" data-bs-toggle="modal" data-bs-target="#VitalsingModal">
                                     READ DETAILS
@@ -102,9 +102,9 @@ function Product() {
                             </div>
                             <div class="modal fade" id="VitalsingModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
-                                            <h1 class="modal-title fs-1" id="exampleModalLabel">Expert Smart vitalsing</h1>
+                                            <h1 class="modal-title fs-1" id="exampleModalLabel">Expert Smart VitalSigns</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                                         </div>
                                         <div class="modal-body fs-2 m-3">
@@ -124,7 +124,7 @@ function Product() {
                             <div class="team-single-one-start">
                                 <div class="team-image-area">
                                     <a>
-                                        <img src="assets/images/products/Mobile_Connect.png" alt="Business_Team_single" style={{ /* height: '265px' */aspectRatio: '1/1', objectFit: 'contain' }} />
+                                        <img src="assets/images/products/Mobile_Connect.png" alt="Business_Team_single" style={{/*  height: '250px' */aspectRatio: '1/1', objectFit: 'contain' }} />
                                     </a>
                                 </div>
                                 <div class="single-details">
@@ -137,7 +137,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="SinggleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1" id="exampleModalLabel">Expert Smart Mobile Connect</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -179,7 +179,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="PremiumModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1" id="exampleModalLabel">Expert Smart Premium</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -221,7 +221,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="QueModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1" id="exampleModalLabel">Expert Smart Que Q</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -246,13 +246,13 @@ function Product() {
                             <div class="team-single-one-start">
                                 <div class="team-image-area">
                                     <a >
-                                        <img src="assets/images/products/sc21.png" alt="Business_Team_single" style={{ aspectRatio: '1/1', objectFit: 'contain' }} />
+                                        <img src="assets/images/products/sc21.png" alt="Business_Team_single" style={{ height: '268px', objectFit: 'contain' }} />
 
                                     </a>
                                 </div>
                                 <div class="single-details">
                                     <a >
-                                        <h5 class="text-center">BMI Expert SC21</h5>
+                                        <h5 class="text-center">Expert Smart BMI SC21</h5>
                                     </a>
                                     <button class="button-dec" data-bs-toggle="modal" data-bs-target="#SC21Modal" >
                                     READ DETAILS
@@ -261,7 +261,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="SC21Modal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1" id="exampleModalLabel">BMI Expert SC21</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
@@ -306,7 +306,7 @@ function Product() {
                             </div>
                             <div class="modal fade" id="NAGATAModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
                                 <div class="modal-dialog modal-lg modal-dialog-centered">
-                                    <div class="modal-content border border-primary border border-5" style={{ borderRadius: '20px' }}>
+                                    <div class="modal-content border border-primary border border-4" style={{ borderRadius: '20px' }}>
                                         <div class="modal-header">
                                             <h1 class="modal-title fs-1" id="exampleModalLabel">NAGATA BW+Smart SC BOX</h1>
                                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>

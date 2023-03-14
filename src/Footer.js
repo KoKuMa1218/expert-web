@@ -28,16 +28,16 @@ function Footer() {
                                             <div class="info-wrapper">
                                                 <div class="single">
                                                     <ul class="icon">
-                                                        <li><i class="fas fa-phone-alt"></i></li>
+                                                        <li><i class="bi bi-phone border border-primary"></i></li>
                                                     </ul>
                                                     <div class="info">
                                                         <span class='text-white'>ติดต่อสอบถาม</span>
-                                                        <a href="#">02-4723293-5</a>
+                                                        <a>02-4723293-5</a>
                                                     </div>
                                                 </div>
                                                 <div class="single">
                                                     <ul class="icon">
-                                                        <li><i class="far fa-envelope"></i></li>
+                                                        <li><i class="fa-regular fa-envelope"></i></li>
                                                     </ul>
                                                     <div class="info">
                                                         <span class='text-white'>ติดต่อทางเมล์</span>
@@ -45,11 +45,11 @@ function Footer() {
                                                     </div>
                                                 </div>
                                                 <div class="single">
-                                                    <ul class="icon">
+                                                    {/* <ul class="icon">
                                                         <li><i class="fas fa-map-marker-alt"></i></li>
-                                                    </ul>
+                                                    </ul> */}
                                                     <div class="info">
-                                                        <span class='text-white'>Walk In Location</span>
+                                                        <span class='text-white '>Walk In Location</span>
                                                         <a href="https://goo.gl/maps/awumY1mrT6dWamCR6">69/3 ถ. อรุณอมรินทร์ แขวงวัดอรุณ<br />
                                                             เขตบางกอกใหญ่ กรุงเทพมหานคร 10600</a>
                                                     </div>
@@ -75,7 +75,7 @@ function Footer() {
                     </div>
                 </div>
             </section>
-            <div class="loader-wrapper">
+           <div class="loader-wrapper">
                 <div class="loader">
                 </div>
                 <div class="loader-section section-left"></div>

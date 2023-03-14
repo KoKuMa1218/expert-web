@@ -20,11 +20,11 @@ function Profile() {
                                     Expert Technology Development ก่อตั้งขึ้นและจดทะเบียนพาณิชย์ (ประเทศไทย) เมื่อวันที่ 31 ส.ค. 2558 เราเป็นบริษัท Digital Startup และ Health Tech บริษัทพัฒนาและให้คำปรึกษาด้านซอฟต์แวร์ ด้วยการผสมผสานความสามารถเชิงสร้างสรรค์และทักษะด้านเทคนิคในการออกแบบ พัฒนา และส่งมอบ
                                     ตั้งแต่ต้นจนจบ โซลูชันทางธุรกิจด้านเทคโนโลยีและเทคโนโลยีด้านสุขภาพ ธุรกิจและบริการดังต่อไปนี้:
                                 </p>
-                                    <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Health Tech Solution –</span> ให้บริการ Software Package และ Health Solution ที่เหมาะสมกับโรงพยาบาล เพื่อการใช้งานที่รวดเร็วและมีประสิทธิภาพสูงสุด ทั้ง Software และ Hardware</p>
-                                    <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Software Implement Solution –</span> เริ่มต้นจากการให้คำปรึกษาและวิเคราะห์ พัฒนา จนได้ซอฟต์แวร์ที่สมบูรณ์ที่ใช้ในบริษัทลูกค้า (ทั้ง Web & Window Application) นอกจากนี้ เรามีบริการบำรุงรักษาหลังการขาย เพื่อให้ทำงานได้อย่างราบรื่นและมีประสิทธิภาพ</p>
-                                    <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Software Package Solution –</span> จัดหา Software Package และ Solution ที่เหมาะสมกับลูกค้าเพื่อการใช้งานที่รวดเร็วและมีประสิทธิภาพสูงสุดในองค์กร</p>
-                                    <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Mobile Application Solution –</span> นำเสนอโซลูชันแอปพลิเคชันมือถือที่ปรับให้เหมาะกับระบบปฏิบัติการ iOS และ Android ทำงานบนแพลตฟอร์มเซิร์ฟเวอร์ที่เชื่อถือได้ และ ปลอดภัยหรือสภาพแวดล้อมไอทีบนคลาวด์</p>
-                                    <p class="fs-2"> <span class="u-text-custom-color-11 fw-bold">Infrastructure Solution –</span>  เพื่อรองรับลูกค้าในด้านต่างๆ ที่เกี่ยวข้องกับโครงสร้างพื้นฐาน เช่น การติดตั้งระบบ วางระบบเครือข่าย และบริหารจัดการระบบ Network หรือ Cloud Server เป็นต้น</p>
+                                <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Health Tech Solution –</span> ให้บริการ Software Package และ Health Solution ที่เหมาะสมกับโรงพยาบาล เพื่อการใช้งานที่รวดเร็วและมีประสิทธิภาพสูงสุด ทั้ง Software และ Hardware</p>
+                                <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Software Implement Solution –</span> เริ่มต้นจากการให้คำปรึกษาและวิเคราะห์ พัฒนา จนได้ซอฟต์แวร์ที่สมบูรณ์ที่ใช้ในบริษัทลูกค้า (ทั้ง Web & Window Application) นอกจากนี้ เรามีบริการบำรุงรักษาหลังการขาย เพื่อให้ทำงานได้อย่างราบรื่นและมีประสิทธิภาพ</p>
+                                <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Software Package Solution –</span> จัดหา Software Package และ Solution ที่เหมาะสมกับลูกค้าเพื่อการใช้งานที่รวดเร็วและมีประสิทธิภาพสูงสุดในองค์กร</p>
+                                <p class="fs-2"><span class="u-text-custom-color-11 fw-bold">Mobile Application Solution –</span> นำเสนอโซลูชันแอปพลิเคชันมือถือที่ปรับให้เหมาะกับระบบปฏิบัติการ iOS และ Android ทำงานบนแพลตฟอร์มเซิร์ฟเวอร์ที่เชื่อถือได้ และ ปลอดภัยหรือสภาพแวดล้อมไอทีบนคลาวด์</p>
+                                <p class="fs-2"> <span class="u-text-custom-color-11 fw-bold">Infrastructure Solution –</span>  เพื่อรองรับลูกค้าในด้านต่างๆ ที่เกี่ยวข้องกับโครงสร้างพื้นฐาน เช่น การติดตั้งระบบ วางระบบเครือข่าย และบริหารจัดการระบบ Network หรือ Cloud Server เป็นต้น</p>
                                 <div class="row g-5 mt--30 mb--40">
                                     <div class="col-lg-6">
                                         {/* <!-- single service details card --> */}
@@ -166,7 +166,19 @@ function Profile() {
                                             </h6>
                                             <span>Downlaod</span>
                                         </div>
+                                        {/* <a download class="rts-btn btn-primary-4" href="assets/download/Catalog.pdf"><i class="fal fa-arrow-down"></i></a> */}
+                                        {/*  <a download href="assets/download/Catalog.pdf">
+                                        <div class="button">
+                                            <div class="button-wrapper">
+                                                <div class="text">Download</div>
+                                                <span class="icon">
+                                                        <svg viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" height="2em" width="2em" role="img" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><path d="M12 15V3m0 12l-4-4m4 4l4-4M2 17l.621 2.485A2 2 0 0 0 4.561 21h14.878a2 2 0 0 0 1.94-1.515L22 17" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="none"></path></svg>
+                                                </span>
+                                            </div>
+                                        </div>
+                                        </a> */}
                                         <a download class="rts-btn btn-primary-4" href="assets/download/Catalog.pdf"><i class="fal fa-arrow-right"></i></a>
+
                                     </div>
                                     {/* <!-- single downlaod area End -->
 
@@ -182,8 +194,6 @@ function Profile() {
                                     <a href="#"><img src="assets/images/logo/logo-Expert.svg" class="bg-white" style={{ borderRadius: '15px' }} alt="Business_logo" /></a>
                                 </div>
                                 <div class="wized-body">
-                                    {/* <h5 class="title">Need Help? We Are Here
-                                        To Help You</h5> */}
                                     <a class="fas fa-envelope rts-btn btn-primary-4" href="mailto:SmartEasyOPD@gmail.com">&nbsp;&nbsp;<a>Mail To</a></a>
                                 </div>
                             </div>
@@ -191,76 +201,74 @@ function Profile() {
                                 <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FSmartEasyOPD&tabs=timeline&width=372&height=600&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId"
                                     width={372} height={600} allowfullscreen={true} allow={"autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"} style={{ borderTopLeftRadius: '20px', borderBottomLeftRadius: '20px' }}>t</iframe>
                             </div>
+                            {/* <div class="rts-single-wized contact service" style={{ background: '#295690', borderRadius: '15px' }}></div> */}
                             {/* <!-- single wizered End --> */}
                         </div>
 
                         {/* <!-- rts- blog wizered end area --> */}
                     </div>
                 </div>
-                <div class="rts-team-area  bg-team-color" id='news'>
-                <div class="container">
-                    <div class="col-12">
-                        <div class="text-center">
-                            <h2 class="title">บรรยากาศการติดตั้ง</h2>
-                        </div>
-                    </div><br />
-                    <div class="row g-5">
-                        {/* <!-- single contact area --> */}
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
-                                <div class="thumbnail" style={{ borderRadius: '15px' }}> {/* <--กรอบ */}
-                                    <img src="assets/images/blog/install/install_01.jpg" alt="" />
-                                    <img src="assets/images/blog/install/install_07.jpg" alt="" />
+                <div class="rts-team-area bg-team-color" id='news'>
+                    <div class="container">
+                        <div class="col-12">
+                            <div class="text-center">
+                                <h2 class="title">บรรยากาศการติดตั้ง</h2>
+                            </div>
+                        </div><br />
+                        <div class="row g-5">
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
+                                    <div class="thumbnail" style={{ borderRadius: '15px' }}> {/* <--กรอบ */}
+                                        <img src="assets/images/blog/install/install_01.jpg" alt="" />
+                                        <img src="assets/images/blog/install/install_07.jpg" alt="" />
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* <!-- single contact area end -->
-                <!-- single contact area --> */}
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
-                                <div class="thumbnail" style={{ borderRadius: '15px' }}>
-                                    <img src="assets/images/blog/install/install_02.jpg" alt="" />
+                           
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
+                                    <div class="thumbnail" style={{ borderRadius: '15px' }}>
+                                        <img src="assets/images/blog/install/install_02.jpg" alt="" />
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* <!-- single contact area end -->
-                <!-- single contact area --> */}
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
-                                <div class="thumbnail" style={{ borderRadius: '15px' }}>
-                                    <img src="assets/images/blog/install/install_03.jpg" alt="" />
+                           
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
+                                    <div class="thumbnail" style={{ borderRadius: '15px' }}>
+                                        <img src="assets/images/blog/install/install_03.jpg" alt="" />
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        {/* <!-- single contact area end --> */}
-                        {/* <div class="row g-5 justify-content-center"> */}
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
-                                <div class="thumbnail" style={{ borderRadius: '15px' }}>
-                                    <img src="assets/images/blog/install/install_04.jpg" alt="" />
+                            
+                            
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
+                                    <div class="thumbnail" style={{ borderRadius: '15px' }}>
+                                        <img src="assets/images/blog/install/install_04.jpg" alt="" />
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
-                                <div class="thumbnail" style={{ borderRadius: '15px' }}>
-                                    <img src="assets/images/blog/install/install_05.jpg" alt="" />
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
+                                    <div class="thumbnail" style={{ borderRadius: '15px' }}>
+                                        <img src="assets/images/blog/install/install_05.jpg" alt="" />
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                        <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
-                            <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
-                                <div class="thumbnail" style={{ borderRadius: '15px' }}>
-                                    <img src="assets/images/blog/install/install_06.jpg" alt="" />
+                            <div class="col-xl-4 col-lg-4 col-md-6 col-sm-6 col-12">
+                                <div class="single-contact-one-inner" style={{ backgroundColor: 'transparent' }}>
+                                    <div class="thumbnail" style={{ borderRadius: '15px' }}>
+                                        <img src="assets/images/blog/install/install_06.jpg" alt="" />
+                                    </div>
                                 </div>
                             </div>
+                            
                         </div>
-                        {/* </div> */}
                     </div>
                 </div>
-            </div>
             </section >
-            
+
 
         </>
     )

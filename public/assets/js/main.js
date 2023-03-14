@@ -450,8 +450,9 @@
               spaceBetween: 30,
               slidesPerGroup: 1,
               loop: true,
-              loopFillGroupWithBlank: true,
+              loopFillGroupWithBlank: true, 
               centeredSlides: false,
+              speed:2500,
               pagination: {
                 el: ".swiper-pagination",
                 type: "fraction",
@@ -461,7 +462,96 @@
                 prevEl: ".swiper-button-prev",
               },
               autoplay: {
-                delay: 3000,
+                delay: 0.1,
+                
+              },              
+              breakpoints: {
+                1500: {
+                  slidesPerView: 4,
+                },
+                1300: {
+                  slidesPerView: 4,
+                },
+                991: {
+                  slidesPerView: 3,
+                  
+                },
+                767: {
+                  slidesPerView: 3,
+                },
+                575: {
+                  slidesPerView: 2,
+                },
+                0: {
+                  slidesPerView: 1,
+                }
+              },
+            });
+          });
+          $(document).ready(function() {
+            var swiper = new Swiper(".mySwiperh1_teamReverse", {
+              slidesPerView: 4,
+              spaceBetween: 30,
+              slidesPerGroup: 1,
+              loop: true,
+              loopFillGroupWithBlank: true, 
+              centeredSlides: false,
+              speed:3500,
+              pagination: {
+                el: ".swiper-pagination",
+                type: "fraction",
+              },
+              navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+              },
+              autoplay: {
+                delay: 0,
+                reverseDirection:true,
+              },              
+              breakpoints: {
+                1500: {
+                  slidesPerView: 4,
+                },
+                1300: {
+                  slidesPerView: 4,
+                },
+                991: {
+                  slidesPerView: 3,
+                  
+                },
+                767: {
+                  slidesPerView: 3,
+                },
+                575: {
+                  slidesPerView: 2,
+                },
+                0: {
+                  slidesPerView: 1,
+                }
+              },
+            });
+          });
+          $(document).ready(function() {
+            var swiper = new Swiper(".mySwiperh1_teamSlow", {
+              slidesPerView: 4,
+              spaceBetween: 30,
+              slidesPerGroup: 1,
+              loop: true,
+              loopFillGroupWithBlank: true, 
+              centeredSlides: false,
+              speed:3500,
+              pagination: {
+                el: ".swiper-pagination",
+                type: "fraction",
+              },
+              navigation: {
+                nextEl: ".swiper-button-next",
+                prevEl: ".swiper-button-prev",
+              },
+              autoplay: {
+                delay: 1,
+                
               },              
               breakpoints: {
                 1500: {
@@ -980,7 +1070,7 @@
         
             $('html, body').animate({
                 scrollTop: $($.attr(this, 'href')).offset().top
-            }, 2000);
+            }, 4000);
           });
         },
         // pne page scroll top

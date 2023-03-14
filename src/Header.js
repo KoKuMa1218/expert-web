@@ -63,7 +63,7 @@ function Header() {
                                                 </div>
                                             </div>
                                         </div>
-                                        <button id="menu-btn" class="menu rts-btn btn-primary-alta btn-primary-alta-four ml--20 ml_sm--5">
+                                        <button id="menu-btn" class="menu rts-btn ml--20 ml_sm--5">
                                             <img class="menu-dark" src="assets/images/icon/menu.png" alt="Menu-icon" />
                                             <img class="menu-light" src="assets/images/icon/menu-light.png" alt="Menu-icon" />
                                         </button>
@@ -126,7 +126,7 @@ function Header() {
                                 <li><a href="#banner">หน้าหลัก</a></li>
                                 <li><a href="#profile">เกี่ยวกับเรา</a></li>
                                 <li><a href="#contact">ช่องทางติดต่อ</a></li>
-                                <li><a href="assets/download/Catalog.pdf"target={'_blank'}>ดู Catalog</a></li>
+                                <li><a href="assets/download/Catalog.pdf"target={'_blank'}>เข้าชมCatalog</a></li>
                             </ul>
                         </nav>
                         <div class="social-wrapper-two menu mobile-menu d-flex justify-content-center">

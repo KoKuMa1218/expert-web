@@ -5,6 +5,8 @@ import Product from "./Product";
 import Contact from "./Contact";
 import Footer from "./Footer";
 import Thank from "./Thank";
+
+
 function App() {
   return (
     <>
@@ -14,7 +16,7 @@ function App() {
         <Profile />
         <Product />
         <Contact/>
-        {/* <Thank /> */}
+        <Thank />
         <Footer/>
       </body>
     </>
