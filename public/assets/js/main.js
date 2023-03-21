@@ -574,6 +574,7 @@
                   slidesPerView: 1,
                 }
               },
+              
             });
           });
           $(document).ready(function() {

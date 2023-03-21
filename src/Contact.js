@@ -13,7 +13,8 @@ function Contact() {
                                     <h5 class="title">ติดต่อสอบถาม</h5>
                                     <div class="details">
                                         <p>โทรติดต่อ</p>
-                                        <a class="number" href="#">02-4723293-5</a>
+                                        <a class="number" href="#">086-4609902</a><br/>
+                                        <a class="number" href="#">063-3943519</a>
 
                                         <p class="time-header">
                                             Assistance hours:
@@ -21,20 +22,24 @@ function Contact() {
                                         <p class="time">
                                             Monday – Saturday <br />Working: 8.00am - 5.00pm
                                         </p>
+                                        <p class="time-header">
+                                            Line Official <br/>
+                                                <img src="assets/images/line/Add_line.png"/>
+                                        </p>
                                     </div>
                                 </div>
                                 <div class="right-area single-wized ">
                                     <h5 class="title bi bi-geo-alt-fill">เยี่ยมชม</h5>
                                     <div class="details">
                                         <p>Walk In</p>
-                                        <a href="#">69, 3 ถ. อรุณอมรินทร์ แขวงวัดอรุณ  <br />
+                                        <a href="#">69, 3 ถ. อรุณอมรินทร์ <br/>แขวงวัดอรุณ  <br />
                                             เขตบางกอกใหญ่ กรุงเทพมหานคร 10600</a>
 
                                         <p class="headoffice">
                                             Head Office
                                         </p>
-                                        <p class="office">30/22 ถ.พุทธมณฑลสาย 3 แขวงทวีวัฒนา <br />
-                                            เขคทวีวัฒนา กรุงเทพมหานคร</p><br />
+                                        <p class="office">30/22 ถ.พุทธมณฑลสาย 3<br/> แขวงทวีวัฒนา <br />
+                                            เขตทวีวัฒนา กรุงเทพมหานคร</p><br />
                                     </div>
 
                                 </div>

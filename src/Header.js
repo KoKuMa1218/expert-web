@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Header() {
     return (
         <>
@@ -23,7 +24,7 @@ function Header() {
                                     <div class="single-right call">
                                         <i class="far fa-phone-volume text-white"></i>
                                         <span class="text-white">โทรติดต่อ: </span>
-                                        <a href="#"class="text-white">02-4723293-5</a>
+                                        <a class="text-white">086-4609902  ,  063-3943519</a>
                                     </div>
                                 </div>
                             </div>
@@ -95,7 +96,11 @@ function Header() {
                                 {/* <!-- single --> */}
                                 <div class="single">
                                     <i class="fas fa-phone-alt"></i>
-                                    <a>02-4723293-5</a>
+                                    <a>086-4609902</a>
+                                </div>
+                                <div class="single">
+                                    <i class="fas fa-phone-alt"></i>
+                                    <a>063-3943519</a>
                                 </div>
                                 {/* <!-- single ENd -->
                         <!-- single --> */}
@@ -144,7 +149,6 @@ function Header() {
             <div id="anywhere-home"></div>
             {/* <!-- banner area start three --> */}
             <div data-bs-spy="scroll" class="rts-banner-area banner-three banner-four"id="banner">
-                <div class="swiper-wrapper"></div>
                 <div class="shape1">
                     <img src="assets/images/banner/shape/05.png" alt="" />
                 </div>
@@ -157,7 +161,7 @@ function Header() {
                 <div class="shape4">
                     <img src="assets/images/banner/shape/08.png" alt="" />
                 </div>
-                <div class=" bg_banner-three bg_banner-four bg_image rts-section-gap ">
+                <div class="bg_banner-three bg_banner-four bg_banner-four bg_image rts-section-gap">
                     <div class="container">
                         <div class="row">
                             <div class="col-12">
