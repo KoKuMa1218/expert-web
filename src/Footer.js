@@ -8,7 +8,7 @@ function Footer() {
                     <div class="row g-5 d-flex justify-content-evenly">
                         <div class="col-xl-3 col-lg-6">
                             <div class="footer-three-single-wized left">
-                                <a href="index" class="logo_footer">
+                                <a class="logo_footer">
                                     <img src="assets/images/logo/logo-Expert.svg" class="bg-white" style={{ borderRadius: '10px' }} alt="Logo-image" />
                                 </a>
                                 <p class="disc text-white">กดไลค์เพจเฟสบุ๊ค Expert Smart Easy OPD IPD ของเราไว้เพื่อไม่ให้พลาดข่าวสารต่างๆ</p>

@@ -18,7 +18,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/private/BangkokHatyai.jpg" alt="" />
                                             </a>
                                         </div>
@@ -27,7 +27,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/private/BangkokPhisanulok.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -36,7 +36,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/private/BPK.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -45,7 +45,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/private/paolo.png" alt=""  />
                                             </a>
                                         </div>
@@ -54,7 +54,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/private/mahachai2.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -63,7 +63,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/private/PIYAVATE.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -79,7 +79,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/largegove/siriraj.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -88,7 +88,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/largegove/ChulalongKorn.png" alt=""  />
                                             </a>
                                         </div>
@@ -97,7 +97,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/largegove/songklanakarin.jpg" alt="" />
                                             </a>
                                         </div>
@@ -106,7 +106,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/largegove/MaharajCM.png" alt=""  />
                                             </a>
                                         </div>
@@ -115,7 +115,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/largegove/Vatchira.png" alt="" />
                                             </a>
                                         </div>
@@ -124,7 +124,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/largegove/Chonburi Hospital.jpg" alt="" />
                                             </a>
                                         </div>
@@ -140,7 +140,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/Mediumgove/Srisankwon.jpg" alt="" />
                                             </a>
                                         </div>
@@ -149,7 +149,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/Mediumgove/Makarak.png" alt="" />
                                             </a>
                                         </div>
@@ -158,7 +158,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/Mediumgove/Bangsapan.jpg" alt="" />
                                             </a>
                                         </div>
@@ -167,7 +167,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a>
                                                 <img src="assets/images/HosLogo/Mediumgove/pakchongnana.png" alt="" />
                                             </a>
                                         </div>
@@ -176,7 +176,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/Mediumgove/panasnikom.png" alt="" />
                                             </a>
                                         </div>
@@ -185,7 +185,7 @@ function Thank() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/HosLogo/Mediumgove/Changkam.jpg" alt="" />
                                             </a>
                                         </div>

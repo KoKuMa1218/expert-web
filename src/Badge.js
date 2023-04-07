@@ -18,7 +18,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/14.jpg" alt="" />
                                             </a>
                                         </div>
@@ -27,7 +27,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/15.jpg" alt="" />
                                             </a>
                                         </div>
@@ -36,7 +36,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/13.jpg" alt="" />
                                             </a>
                                         </div>
@@ -45,7 +45,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/11.jpg" alt="" />
                                             </a>
                                         </div>
@@ -54,7 +54,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/12.jpg" alt="" />
                                             </a>
                                         </div>
@@ -63,7 +63,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/03.jpg" alt="" />
                                             </a>
                                         </div>
@@ -72,7 +72,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/05.png" alt="" />
                                             </a>
                                         </div>
@@ -81,7 +81,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/04.jpg" alt="" />
                                             </a>
                                         </div>
@@ -90,7 +90,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/06.jpg" alt="" />
                                             </a>
                                         </div>
@@ -105,7 +105,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/01.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -114,7 +114,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/02.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -123,7 +123,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/07.png" alt="" />
                                             </a>
                                         </div>
@@ -132,7 +132,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/08.jpg" alt=""  />
                                             </a>
                                         </div>
@@ -141,7 +141,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/09.jpg" alt="" />
                                             </a>
                                         </div>
@@ -150,7 +150,7 @@ function Badge() {
                                 <div class="swiper-slide">
                                     <div class="team-single-one-start">
                                         <div class="card-certified">
-                                            <a href="team-details.html">
+                                            <a >
                                                 <img src="assets/images/reward/10.png" alt="" />
                                             </a>
                                         </div>
